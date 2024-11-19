@@ -7,7 +7,7 @@ const Hero = () => {
             <div className="hero-content">
                 <h2>Building Digital Experiences That Inspire</h2>
                 <p>
-                    Passionate Frontend Developer | Transforming Ideas into Seamless and
+                    Passionate Young Developer | Transforming Ideas into Seamless and
                     Visually Stunning Web Solutions
                 </p>
             </div>
@@ -15,10 +15,10 @@ const Hero = () => {
             <div className="hero-img">
                 <div>
                     <div className="tech-icon">
-                        <img src="./assets/images/img01.png" alt="" />
+                        <img src="./assets/images/logo512.png" alt="" />
                     </div>
                     <div>
-                        <img src="./assets/images/img05.png" alt="" width="450px" />
+                        <img src="./assets/images/img05.png" alt="" width="600px" />
                     </div>
 
                 </div>

@@ -21,7 +21,9 @@ const Navbar = () => {
 
             <nav className="nav-wrapper">
                 <div className="nav-content">
-                    <img className="logo" src="" alt="" />
+                <a className="futuristic-text">Miguel Ospina</a>
+                    {/* <img className="logo" src="" alt="" /> */}
+                    
 
                     <ul>
                         <li>
